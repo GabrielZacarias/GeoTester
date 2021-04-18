@@ -1,0 +1,303 @@
+[
+    {
+        "id": "1",
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "image": "Alabama.png"
+    },
+    {
+        "id": "2",
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "image": "Alaska.png"
+    },
+    {
+        "id": "3",
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "image": "Arizona.png"
+    },
+    {
+        "id": "4",
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "image": "Arkansas.png"
+    },
+    {
+        "id": "5",
+        "name": "California",
+        "abbreviation": "CA",
+        "image": "California.png"
+    },
+    {
+        "id": "6",
+        "name": "Colorado",
+        "abbreviation": "CO",
+        "image": "Colorado.png"
+    },
+    {
+        "id": "7",
+        "name": "Connecticut",
+        "abbreviation": "CT",
+        "image": "Connecticut.png"
+    },
+    {
+        "id": "8",
+        "name": "Delaware",
+        "abbreviation": "DE",
+        "image": "Delaware.png"
+    },
+    {
+        "id": "9",
+        "name": "Florida",
+        "abbreviation": "FL",
+        "image": "Florida.png"
+    },
+    {
+        "id": "10",
+        "name": "Georgia",
+        "abbreviation": "GA",
+        "image": "Georgia.png"
+    },
+    {
+        "id": "11",
+        "name": "Hawaii",
+        "abbreviation": "HI",
+        "image": "Hawaii.png"
+    },
+    {
+        "id": "12",
+        "name": "Idaho",
+        "abbreviation": "ID",
+        "image": "Idaho.png"
+    },
+    {
+        "id": "13",
+        "name": "Illinois",
+        "abbreviation": "IL",
+        "image": "Illinois.png"
+    },
+    {
+        "id": "14",
+        "name": "Indiana",
+        "abbreviation": "IN",
+        "image": "Indiana.png"
+    },
+    {
+        "id": "15",
+        "name": "Iowa",
+        "abbreviation": "IA",
+        "image": "Iowa.png"
+    },
+    {
+        "id": "16",
+        "name": "Kansas",
+        "abbreviation": "KS",
+        "image": "Kansas.png"
+    },
+    {
+        "id": "17",
+        "name": "Kentucky",
+        "abbreviation": "KY",
+        "image": "Kentucky.png"
+    },
+    {
+        "id": "18",
+        "name": "Louisiana",
+        "abbreviation": "LA",
+        "image": "Louisiana.png"
+    },
+    {
+        "id": "19",
+        "name": "Maine",
+        "abbreviation": "ME",
+        "image": "Maine.png"
+    },
+    {
+        "id": "20",
+        "name": "Maryland",
+        "abbreviation": "MD",
+        "image": "Maryland.png"
+    },
+    {
+        "id": "21",
+        "name": "Massachusetts",
+        "abbreviation": "MA",
+        "image": "Massachusetts.png"
+    },
+    {
+        "id": "22",
+        "name": "Michigan",
+        "abbreviation": "MI",
+        "image": "Michigan.png"
+    },
+    {
+        "id": "23",
+        "name": "Minnesota",
+        "abbreviation": "MN",
+        "image": "Minnesota.png"
+    },
+    {
+        "id": "24",
+        "name": "Mississippi",
+        "abbreviation": "MS",
+        "image": "Mississippi.png"
+    },
+    {
+        "id": "25",
+        "name": "Missouri",
+        "abbreviation": "MO",
+        "image": "Missouri.png"
+    },
+    {
+        "id": "26",
+        "name": "Montana",
+        "abbreviation": "MT",
+        "image": "Montana.png"
+    },
+    {
+        "id": "27",
+        "name": "Nebraska",
+        "abbreviation": "NE",
+        "image": "Nebraska.png"
+    },
+    {
+        "id": "28",
+        "name": "Nevada",
+        "abbreviation": "NV",
+        "image": "Nevada.png"
+    },
+    {
+        "id": "29",
+        "name": "New Hampshire",
+        "abbreviation": "NH",
+        "image": "New Hampshire.png"
+    },
+    {
+        "id": "30",
+        "name": "New Jersey",
+        "abbreviation": "NJ",
+        "image": "New Jersey.png"
+    },
+    {
+        "id": "31",
+        "name": "New Mexico",
+        "abbreviation": "NM",
+        "image": "New Mexico.png"
+    },
+    {
+        "id": "32",
+        "name": "New York",
+        "abbreviation": "NY",
+        "image": "New York.png"
+    },
+    {
+        "id": "33",
+        "name": "North Carolina",
+        "abbreviation": "NC",
+        "image": "North Carolina.png"
+    },
+    {
+        "id": "34",
+        "name": "North Dakota",
+        "abbreviation": "ND",
+        "image": "North Dakota.png"
+    },
+    {
+        "id": "35",
+        "name": "Ohio",
+        "abbreviation": "OH",
+        "image": "Ohio.png"
+    },
+    {
+        "id": "36",
+        "name": "Oklahoma",
+        "abbreviation": "OK",
+        "image": "Oklahoma.png"
+    },
+    {
+        "id": "37",
+        "name": "Oregon",
+        "abbreviation": "OR",
+        "image": "Oregon.png"
+    },
+    {
+        "id": "38",
+        "name": "Pennsylvania",
+        "abbreviation": "PA",
+        "image": "Pennsylvania.png"
+    },
+    {
+        "id": "39",
+        "name": "Rhode Island",
+        "abbreviation": "RI",
+        "image": "Rhode Island.png"
+    },
+    {
+        "id": "40",
+        "name": "South Carolina",
+        "abbreviation": "SC",
+        "image": "South Carolina.png"
+    },
+    {
+        "id": "41",
+        "name": "South Dakota",
+        "abbreviation": "SD",
+        "image": "South Dakota.png"
+    },
+    {
+        "id": "42",
+        "name": "Tennessee",
+        "abbreviation": "TN",
+        "image": "Tennessee.png"
+    },
+    {
+        "id": "43",
+        "name": "Texas",
+        "abbreviation": "TX",
+        "image": "Texas.png"
+    },
+    {
+        "id": "44",
+        "name": "Utah",
+        "abbreviation": "UT",
+        "image": "Utah.png"
+    },
+    {
+        "id": "45",
+        "name": "Vermont",
+        "abbreviation": "VT",
+        "image": "Vermont.png"
+    },
+    {
+        "id": "46",
+        "name": "Virginia",
+        "abbreviation": "VA",
+        "image": "Virginia.png"
+    },
+    {
+        "id": "47",
+        "name": "Washington",
+        "abbreviation": "WA",
+        "image": "Washington.png"
+    },
+    {
+        "id": "48",
+        "name": "West Virginia",
+        "abbreviation": "WV",
+        "image": "West Virginia.png"
+    },
+    {
+        "id": "49",
+        "name": "Wisconsin",
+        "abbreviation": "WI",
+        "image": "Wisconsin.png"
+    },
+    {
+        "id": "50",
+        "name": "Wyoming",
+        "abbreviation": "WY",
+        "image": "Wyoming.png"
+        
+    }
+]
